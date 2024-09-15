@@ -6,7 +6,7 @@
 
 `3° SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+GeekBid é um aplicativo de compra e vendas de artigos Geek, em formato de leilão online. 
 
 ## 👥 Integrantes
 
